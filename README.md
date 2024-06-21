@@ -24,6 +24,7 @@ Language usage chart doesn't track shading languages, in order of preference I u
 - HLSL
 - CG
 - Shaderlab
+
 ---
 
 ### Contact:
@@ -74,5 +75,10 @@ Language usage chart doesn't track shading languages, in order of preference I u
 | ------------- | ------------- |
 | <a href="https://gist.github.com/NateSavage/c557586e0354810cd33595e62c1624aa"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=c557586e0354810cd33595e62c1624aa&theme=dark"/></a> |                |
 -->
+
+---
+
 ### Open Source Repositories:
 [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/NateSavage/dnSpy-Dark-Plus-Theme)
+
+---

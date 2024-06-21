@@ -5,7 +5,7 @@
 
 <br/>
 
-We create because we *have* to right?
+We create because we're *compelled* to.
 
 ---
 

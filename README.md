@@ -14,7 +14,7 @@ We create because we *have* to right?
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api?username=NateSavage&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&number_format=long&show=reviews,prs_merged_percentage" />
 </a>
 <a href="https://github.com/Mr-Kittyhawk">
-  <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/top-langs/?username=NateSavage&layout=donut&theme=dark&hide_title=false&size_weight=0.5&count_weight=0.5" />
+  <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/top-langs/?username=NateSavage&exclude_repo=Portfolio&layout=donut&theme=dark&hide_title=false&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ---

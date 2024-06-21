@@ -7,7 +7,7 @@
 
 We create because we *have* to right?
 
-<br/>
+---
 
 <!-- code for the wonderful github cards provided by Anurag Hazra @ https://github.com/anuraghazra/github-readme-stats#github-gist-pins -->
 <a href="https://github.com/Mr-Kittyhawk">
@@ -15,8 +15,15 @@ We create because we *have* to right?
 </a>
 <a href="https://github.com/Mr-Kittyhawk">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/top-langs/?username=NateSavage&exclude_repo=Portfolio&layout=donut&theme=dark&hide_title=false&size_weight=0.5&count_weight=0.5" />
-</a>
+</a> <br />
 
+<br />
+
+Language usage chart doesn't track any shading languages, I use..
+- GLSL
+- HLSL
+- CG
+- Shaderlab
 ---
 
 ### Contact:

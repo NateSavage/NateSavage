@@ -33,7 +33,7 @@ Language usage chart doesn't track shading languages, in order of preference I u
 ---
 
 ### Contact:
-- **Email**: NateSavage@TexelDrain.com
+- **Email**: Nate.Savage@TexelDrain.com
 - **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)
 
 <!-- snooping around are we? 

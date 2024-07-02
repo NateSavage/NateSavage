@@ -29,7 +29,7 @@ Language usage chart doesn't track shading languages, in order of preference I u
 
 ### Open Source Repositories:
 [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/NateSavage/dnSpy-Dark-Plus-Theme)
-
+[![.NET Library Template](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=Dotnet-Library-Template&theme=dark)](https://github.com/NateSavage/Dotnet-Library-Template)
 ---
 
 ### Contact:

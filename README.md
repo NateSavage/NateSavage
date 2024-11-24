@@ -19,7 +19,7 @@ We create because we're *compelled* to.
 
 <br />
 
-Language usage chart doesn't track shading languages, in order of preference I use..
+Language usage chart doesn't seem to track shading languages, in order of preference I use..
 - GLSL
 - HLSL
 - CG

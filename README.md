@@ -28,6 +28,7 @@ Language usage chart doesn't seem to track shading languages, in order of prefer
 ---
 
 ### Open Source Repositories:
+[![Personal Nix Configuration](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=Nix&theme=dark)](https://github.com/NateSavage/Nix)
 [![.NET Library Template](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=Dotnet-Library-Template&theme=dark)](https://github.com/NateSavage/Dotnet-Library-Template)
 [![dnSpyEx Dark Plus Theme](https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=dnSpy-Dark-Plus-Theme&theme=dark)](https://github.com/NateSavage/dnSpy-Dark-Plus-Theme)
 ---

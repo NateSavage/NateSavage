@@ -5,7 +5,8 @@
 
 <br/>
 
-We create because we're *compelled* to.
+Procedural generation made me fall in love with programming. I have an art degree, I've been paid to write game AI frameworks, pipeline tools, gameplay code, and tools for the US Air Force Research Laboratory.
+Right now I'm very interested NixOS, offloading more game development work to a cluster so I can unchain myself from my desk; and writing procedural a modeling tool based on signed distance fields.
 
 ---
 
@@ -19,11 +20,11 @@ We create because we're *compelled* to.
 
 <br />
 
-Language usage chart doesn't seem to track shading languages, in order of preference I use..
+Language usage chart doesn't seem to track shading languages, in order of preference I have written..
 - GLSL
 - HLSL
 - CG
-- Shaderlab
+- Shaderlab (an abomination combining both CG and HLSL)
 
 ---
 

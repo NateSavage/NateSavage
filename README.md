@@ -1,12 +1,18 @@
-## Videogame Technical Artist who loves the common language runtime
-
+## Videogame Technical Artist
 > Technical Artist - "Not quite good enough to be an artist, not quite good enough to be a programmer." <br/>
 > ~ Keith Guerrette, former lead visual effects artist @ Naughty Dog
 
 <br/>
 
 Procedural generation made me fall in love with programming. I have an art degree, I've been paid to write game AI frameworks, pipeline tools, gameplay code, and tools for the US Air Force Research Laboratory.
-Right now I'm very interested NixOS, offloading more game development work to a cluster so I can unchain myself from my desk; and writing procedural a modeling tool based on signed distance fields.
+
+Right now I'm very interested in...
+- Nix/NixOS, a functional language, package manager, maybe the build system to end all build systems.
+- Offloading more game development work to a cluster so I can unchain myself from my desk
+- Writing procedural a modeling tool based on signed distance fields.
+
+
+### <p align="center" > ~~~~~ be kind to eachother ~~~~~ </p>
 
 ---
 

@@ -11,9 +11,6 @@ Right now I'm very interested in...
 - Offloading more game development work to a cluster so I can unchain myself from my desk
 - Writing procedural a modeling tool based on signed distance fields.
 
-
-### <p align="center" > ~~~~~ be kind to eachother ~~~~~ </p>
-
 ---
 
 <!-- code for the wonderful github cards provided by Anurag Hazra @ https://github.com/anuraghazra/github-readme-stats#github-gist-pins -->

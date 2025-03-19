@@ -4,7 +4,7 @@
 
 <br/>
 
-Procedural generation made me fall in love with programming. I have an art degree, I've been paid to write game AI frameworks, pipeline tools, gameplay code, and tools for the US Air Force Research Laboratory.
+Procedural generation made me fall in love with programming. I have an art degree, I've been paid to write game AI frameworks, pipeline tools, gameplay code, and tools for the US Air Force Research Laboratory at Wright-Patterson.
 
 Right now I'm very interested in...
 - Nix/NixOS, a functional language, a package manager, maybe the build system to end all build systems.

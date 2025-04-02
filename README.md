@@ -1,6 +1,6 @@
 ## Videogame Technical Artist
 > Technical Artist - "Not quite good enough to be an artist, not quite good enough to be a programmer." <br/>
-> ~ Keith Guerrette, former lead visual effects artist @ Naughty Dog, creator of the realtime vfx forum
+> ~ Keith Guerrette, former lead visual effects artist at Naughty Dog, creator of the [Realtime VFX](https://realtimevfx.com/) forum
 
 <br/>
 

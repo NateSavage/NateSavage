@@ -14,9 +14,11 @@ Right now I'm very interested in...
 ---
 
 <!-- code for the wonderful github cards provided by Anurag Hazra @ https://github.com/anuraghazra/github-readme-stats#github-gist-pins -->
+<!--  
 <a href="https://github.com/NateSavage">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api?username=NateSavage&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&number_format=long&show=reviews,prs_merged_percentage" />
-</a>
+</a> 
+-->
 <a href="https://github.com/NateSavage">
   <img height=275 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/top-langs/?username=NateSavage&exclude_repo=Portfolio&layout=donut&theme=dark&hide_title=false&size_weight=0.5&count_weight=0.5" />
 </a> <br />
@@ -32,7 +34,7 @@ Language usage chart doesn't seem to track shading languages, in order of prefer
 ---
 
 ### Open Source Repositories:
-<a href="https://github.com/NateSavage/Nix">
+<a href="https://github.com/NateSavage/nix">
   <img height=130 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=Nix&theme=dark" />
 </a>
 <a href="https://github.com/NateSavage/Dotnet-Library-Template">
@@ -45,7 +47,7 @@ Language usage chart doesn't seem to track shading languages, in order of prefer
 ---
 
 ### Contact:
-- **Email**: Nate.Savage@Panopticom.online
+- **Email**: Nate.Savage@panopticom.online
 - **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)
 
 <!-- snooping around are we? 

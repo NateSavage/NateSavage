@@ -33,19 +33,6 @@ Language usage chart doesn't seem to track shading languages, in order of prefer
 
 ---
 
-### Open Source Repositories:
-<a href="https://github.com/NateSavage/nix">
-  <img height=130 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=Nix&theme=dark" />
-</a>
-<a href="https://github.com/NateSavage/Dotnet-Library-Template">
-  <img align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=Dotnet-Library-Template&theme=dark" />
-</a> <br />
-<a href="https://github.com/NateSavage/dnSpy-Dark-Plus-Theme">
-  <img  height=130 align="center" src="https://github-readme-stats-beta-virid.vercel.app/api/pin/?username=NateSavage&repo=dnSpy-Dark-Plus-Theme&theme=dark" />
-</a>
-
----
-
 ### Contact:
 - **Email**: Nate.Savage@panopticom.online
 - **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)

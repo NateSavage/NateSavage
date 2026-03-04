@@ -35,6 +35,7 @@ Language usage chart doesn't seem to track shading languages, in order of prefer
 
 ### Contact:
 - **Email**: Nate.Savage@panopticom.online
+- **Matrix**: @nate:panopticom.online
 - **Discord**: [mrkittyhawk](https://discord.com/users/230440842521870336)
 
 <!-- snooping around are we? 

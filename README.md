@@ -4,6 +4,8 @@
 
 <br/>
 
+When my projects become professional grade tools and I feel committed to maintaining them, they move over to https://github.com/Panopticom. Consider this my island of misfit toys.
+
 Procedural generation made me fall in love with programming. I have an art degree. I've been paid to write game AI frameworks, gameplay code, tools and tech art. As an environment artist and 3D generalist. To create tools for the US Air Force Research Laboratory at Wright-Patterson. As a lab tech cleaning datasets for training nueral networks.
 
 Right now I'm very interested in...

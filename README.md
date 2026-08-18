@@ -10,6 +10,7 @@ Procedural generation made me fall in love with programming. I have an art degre
 
 Right now I'm very interested in...
 - Nix/NixOS, a functional language, a package manager, maybe the build system to end all build systems.
+- Jai, whenever the compiler is finally released to the public
 - Offloading more game development work to a cluster so I can unchain myself from my desk
 - Writing a realtime procedural modeling tool based on signed distance fields.
 

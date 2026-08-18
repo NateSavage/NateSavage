@@ -9,10 +9,10 @@ When my projects become professional grade tools and I feel committed to maintai
 Procedural generation made me fall in love with programming. I have an art degree. I've been paid to write game AI frameworks, gameplay code, tools and tech art. As an environment artist and 3D generalist. To create tools for the US Air Force Research Laboratory at Wright-Patterson. As a lab tech cleaning datasets for training nueral networks.
 
 Right now I'm very interested in...
-- Nix/NixOS, a functional language, a package manager, maybe the build system to end all build systems.
-- Jai, whenever the compiler is finally released to the public
-- Offloading more game development work to a cluster so I can unchain myself from my desk
 - Writing a realtime procedural modeling tool based on signed distance fields.
+- Nix/NixOS, a functional language, a package manager, maybe the build system to end all build systems.
+- Jai, whenever the compiler is finally released to the public.
+- Offloading more game development work to a cluster so I can unchain myself from my desk.
 
 ---
 
